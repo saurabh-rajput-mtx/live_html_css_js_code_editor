@@ -1,0 +1,78 @@
+body{
+    background-color: black;
+}
+#Output-div{
+width: 94%;
+margin-left:3%;
+height:48vh;
+border-width:3px ;
+background-color: white;
+}
+.div-htmlCode{
+    margin-left: 1%;
+    width: 30%;
+    height:38vh;
+    display: inline-block
+}
+#htmlCode-id{
+    width: 100%;
+    height:100%;
+    font-size: large;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 1px #999;
+    background-color: black;
+    color:white;
+
+}
+.div-cssCode{
+    width: 30%;
+    height:38vh;
+    margin-left: 3.5%;
+    margin-right: 3.5%;
+    display: inline-block;
+}
+#cssCode-id{
+    width: 100%;
+    height:100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 1px #999;
+    background-color: black;
+    color:white;
+}
+.div-javaScript{
+    width: 30%;
+    height:38vh;
+    display: inline-block
+
+}
+#javaScriptCode-id{
+    width: 100%;
+    height:100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 1px #999;
+    background-color: black;
+    color:white;
+
+}
+.html-head{
+    color:orange;
+    text-align: center;
+}
+.css-head{
+    color:blue;
+    text-align: center;
+}
+.javascript-head{
+    color:green;
+    text-align: center;
+}
+.output-head{
+    color:whitesmoke;
+    text-align: center;
+}
